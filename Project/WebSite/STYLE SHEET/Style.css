@@ -1,0 +1,211 @@
+﻿body {
+    background:#151515 none repeat scroll 0 0;
+    color:#ffffff;
+    font-family: Traditional Arabic, Arial;
+    text-align: right;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+div, p, ul, h3, h4, img{padding:0px; margin:0px;}
+ul{list-style-type:none;}
+
+.clear {clear: both; margin: 0px; height:0}
+
+p a{font:10px/14px Tahoma, sans-serif; color:#0beef6; text-decoration:underline;}
+p a:hover{ color:#fff; text-decoration:none;}
+
+p a.a2{font:10px/14px Tahoma, sans-serif; color:#fff; text-decoration:none;}
+p a.a2:hover{ color:deepskyblue; text-decoration:underline;}
+
+.headline{font:16px/14px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#FFF; font-weight:bold}
+.headline2{font:10px/14px Tahoma, Geneva, sans-serif; color:#0beef6; font-weight:bold}
+.headline3{font:23px/14px Tahoma, Geneva, sans-serif; color:#0bf709; font-weight:bold}
+.headline4{font:17px/14px Tahoma, Geneva, sans-serif; color:#FFF; font-weight:bold}
+.headline5{ font:7px/14px;color:#ffd800;padding-right:20px}
+.headline6{ font:7px/14px;color:#fff;}
+#container{width:775px; position:relative; margin:0 auto; background:#2a2a2a}
+
+/* HEADER */
+
+#header{width:735px; height:283px;  position:relative; background:url(../images/b_header.jpg) 0 0 no-repeat; margin:0 auto}
+
+#header img#logo{position:absolute; top:9px; left:510px}
+#header img#slogan{position:absolute; top:186px; left:408px}
+
+/* Menu Styles */
+
+.third-level-menu
+{
+    position: absolute;
+    top: 0;
+    right: +140px;
+    width: 140px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+.third-level-menu > li
+{
+    height: 30px;
+    background: #999999;
+    border-bottom: 1px solid #ccc;
+}
+
+.third-level-menu > li:hover { background: #d88e8e; }
+
+.second-level-menu
+{
+    position: absolute;
+    top: 30px;
+    right: 0;
+    width: 140px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.second-level-menu > li
+{
+    position: relative;
+    height: 30px;
+    border-bottom: 1px solid #ccc;
+    background: #999999;
+    
+}
+.second-level-menu > li div
+{
+        
+/* style div in top level to be same of toplevel li*/
+    border-bottom: 1px solid #ccc;
+    background: #999999;
+    position: relative;
+    padding: 15px !important;
+    width: 180px;
+    font-family: Traditional Arabic, Arial;
+    text-align: right;
+    font-weight: bold;
+    font-size: 14px;
+   
+}
+.second-level-menu > li div  a{
+         border-right:none;
+         text-align-last:center;
+         color:deepskyblue;
+    }
+.second-level-menu > li:hover { background: #d88e8e; }
+.second-level-menu > li:hover div { background: #d88e8e; }
+
+.second-level-menu a{
+    text-align:right;
+}
+
+.top-level-menu
+{
+    
+    list-style: none;
+    padding: 1px 0px 0px 0px;
+    margin: 0;
+    /*CONTROL SPACE OF TOPLEVELMENU LI */
+    top:16px; left:8px; width:475px
+
+}
+
+.top-level-menu > li
+{
+    top:8px; left:16px;
+    position: relative;
+    list-style: none;
+    float: right;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.top-level-menu > li:hover { background: #d88e8e; }
+
+.top-level-menu li:hover > ul
+{
+    /* On hover, display the next level's menu */
+    display: inline;
+}
+
+
+/* Menu Link Styles */
+
+.top-level-menu a /* Apply to all links inside the multi-level menu */
+{
+    height: 22px;
+    font: bold 14px Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    border-right: solid 1px #4a779d;
+    text-decoration: none;
+    padding: 9px 10px 0px 10px;
+    
+
+    /* Make the link cover the entire list item-container */
+    display: block;
+    line-height: 30px;
+}
+.top-level-menu a:hover { color: #000000; }
+
+input{
+    border:1px solid #4A779D;
+    padding: 3px 8px;
+    margin-bottom: 8px;
+    width: 164px;
+}
+label{
+    padding: 0px 0px 4px 0px;
+    display:block;
+    color:#ffffff;
+}
+button{
+    background: #4A779D;
+    color: #ffd800;
+    border:1px solid #4A779D;
+    padding: 4px 10px;
+    width: 180px;
+    font-size:17px;
+    font:bold;
+    border-bottom-style:double;
+    /* as a link*/
+    cursor: pointer;
+
+}
+
+/* CONTENT */
+
+#content{width:735px; position:relative; clear:both; margin:0 auto; background:url(../images/b_content.gif) 0 0 repeat-y}
+
+#leftPan{width:200px; float:right; margin:29px 26px 0 23px; display:inline}
+#centerPan{width:230px; float:right; margin:32px 14px 0 0; }
+#rightPan{width:210px; float:right; margin:32px 0 0 14px; display:inline}
+
+#welcome p{margin-right:0px; margin-bottom:35px;}
+
+#news p{margin-right:0px; margin-bottom:35px;}
+#news p span{display:block; padding-right:23px; margin-bottom:8px;margin-left:0px; background:url(../images/calendar.gif) 0 0 no-repeat;background-position:right/* for right bigining img backgroung*/ ;font:12px/14px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#FFF; font-weight:bold }
+
+#featured p{margin-bottom:35px}/*space*/
+#featured p span.headline{display:block; margin-bottom:8px}
+#featured .fcar{margin-bottom:13px;text-align:right}
+#featured .fcar img{float:left; margin-right:13px}
+#featured .fcar p{width:114px;float:right}
+
+#services .serv_item{margin-bottom:13px}
+#services .serv_item img{float:right;}
+#services .serv_item p{width:151px; float:right}
+/*for hedar style to de same of 'welcome to ur site'*/
+#services p{margin-bottom:35px}
+
+/* FOOTER */
+
+#footer{height:65px; clear:both; width:775px; background:#151515}
+#footer p{padding: 15px 0 0 0; font:10px/16px Tahoma, sans-serif; font-weight:normal; text-align:center; color:#848484;}
+#footer p a{font:10px/16px Tahoma, sans-serif; font-weight:normal; color:#848484; text-decoration:none; padding: 0 3px }
+#footer p a:hover{text-decoration:none; background:#848484; color:#fff}
