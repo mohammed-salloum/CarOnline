@@ -48,4 +48,4 @@ A web platform for car sales and rentals, developed using:
 
 ## 📌 Notes
 
-This project was developed as part of the graduation requirements at the Faculty of Informatics Engineering, aiming to simulate real-world e-commerce platforms for vehicles.
+This project was developed as part of the graduation requirements at the Faculty of Informatics Engineering. It simulates a real-world platform for managing car sales and rentals, with features commonly found in automotive e-commerce systems.
