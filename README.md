@@ -49,3 +49,12 @@ A web platform for car sales and rentals, developed using:
 ## 📌 Notes
 
 This project was developed as part of the graduation requirements at the Faculty of Informatics Engineering. It simulates a real-world platform for managing car sales and rentals, with features commonly found in automotive e-commerce systems.
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Salloum**  
+Full-Stack Developer | Python & Django Enthusiast  
+📧 mohammed.e.salloum@gmail.com  
+🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
