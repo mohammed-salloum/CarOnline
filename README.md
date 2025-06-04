@@ -55,6 +55,6 @@ This project was developed as part of the graduation requirements at the Faculty
 ## 👨‍💻 Author
 
 **Mohammed Salloum**  
-Full-Stack Developer | Python & Django Enthusiast  
+Full-Stack Developer | Django & Front-End Specialist  
 📧 mohammed.e.salloum@gmail.com  
 🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
