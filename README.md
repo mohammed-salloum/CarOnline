@@ -21,13 +21,13 @@ A web platform for car sales and rentals, developed using:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Homepage](screenshots/home-page.png)
+![Homepage](Screenshots/home-page.png)
 
 ### 📝 User Registration Page
-![Signup](screenshots/signup-page.png)
+![Signup](Screenshots/signup-page.png)
 
 ### 👤 Registered User View
-![Registered User](screenshots/registered-user-view.png)
+![Registered User](Screenshots/registered-user-view.png)
 
 ---
 
