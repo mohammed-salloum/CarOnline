@@ -6,19 +6,18 @@ A full-stack web platform for car sales and rentals, developed as part of a univ
 
 ---
 
+## ⚙️ Tech Stack
+
+- 🖥️ **Backend**: ASP.NET (C#), SQL Server  
+- 🎨 **Frontend**: HTML5, CSS3, DevExpress UI components
+  
+---
 ## 🔍 Features
 
 - 🔎 Browse and search cars listed for sale or rent  
 - 📝 Users can post listings with images and detailed car information  
 - 🔐 Contact details are only visible to registered users  
-- 🧾 Encourages account creation and protects user privacy  
-
----
-
-## ⚙️ Tech Stack
-
-- 🖥️ **Backend**: ASP.NET (C#), SQL Server  
-- 🎨 **Frontend**: HTML5, CSS3, DevExpress UI components  
+- 🧾 Encourages account creation and protects user privacy    
 
 ---
 
