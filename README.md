@@ -2,7 +2,7 @@
 
 ### 🎓 University Project I (PR1) | March 2018
 
-A full-stack web platform for car sales and rentals, developed as part of the graduation requirements at the Faculty of Informatics Engineering. The system allows users to list vehicles for sale or rent and browse listings with advanced privacy controls.
+A full-stack web platform for car sales and rentals, developed as part of a university graduation project. The system allows users to list vehicles for sale or rent and browse listings with advanced privacy controls.
 
 ---
 
@@ -37,10 +37,8 @@ A full-stack web platform for car sales and rentals, developed as part of the gr
 
 ## 📂 Repository
 
-
-Find the full source code and project files here :  
+Full source code and project files available here:  
 [🔗 CarOnline — GitHub Repository](https://github.com/mohammed-salloum/CarOnline)
-
 
 ---
 
