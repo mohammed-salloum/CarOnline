@@ -37,7 +37,8 @@ A full-stack web platform for car sales and rentals, developed as part of a univ
 
 ## 📂 Repository
 
-Full source code and project files available here:  
+Full source code and project files available here:
+
 [🔗 CarOnline — GitHub Repository](https://github.com/mohammed-salloum/CarOnline)
 
 ---
