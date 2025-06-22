@@ -47,6 +47,5 @@ Full source code and project files available here:
 
 **Mohammed Salloum**  
 Full-Stack Web Developer | Django & React Specialist
-
 📧 mohammed.e.salloum@gmail.com
 🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
