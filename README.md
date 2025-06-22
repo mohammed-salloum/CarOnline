@@ -6,7 +6,7 @@ A full-stack web platform for car sales and rentals, developed as part of a univ
 
 ---
 
-## ⚙️ Tech Stack
+## 🔧 Tech Stack
 
 - 🖥️ **Backend**: ASP.NET (C#), SQL Server  
 - 🎨 **Frontend**: HTML5, CSS3, DevExpress UI components
