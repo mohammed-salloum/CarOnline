@@ -1,6 +1,6 @@
 # 🚗 Car Online – Web Application
 
-### 🎓 University Project – Fourth Year (March 2018)
+### 🎓 University Project I (PR1) | March 2018
 
 A web platform for car sales and rentals, developed using:
 
