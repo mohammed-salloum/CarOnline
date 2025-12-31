@@ -2,7 +2,7 @@
 
 ### 🎓 University Project I (PR1) | March 2018
 
-A full-stack web platform for car sales and rentals, developed as part of a university graduation project. The system allows users to list vehicles for sale or rent and browse listings with advanced privacy controls.
+CarOnline is a full-stack web platform for car sales and rentals, developed as part of a university graduation project. The system allows users to list vehicles for sale or rent and browse listings with advanced privacy controls.
 
 ---
 
@@ -45,6 +45,7 @@ Full source code and project files available here:
 ## 👨‍💻 Author
 
 **Mohammed Salloum**  
-Full-Stack Web Developer | Django & React Specialist  
-📧 mohammed.e.salloum@gmail.com  
-🔗 [LinkedIn – mohammed-salloum-dev](https://linkedin.com/in/mohammed-salloum-dev)
+Front-End React Developer  
+
+📧 Email: mohammed.e.salloum@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/mohammed-salloum-dev
