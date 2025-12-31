@@ -2,7 +2,7 @@
 
 ### 🎓 University Project I (PR1) | March 2018
 
-CarOnline is a full-stack web platform for car sales and rentals, developed as part of a university graduation project. The system allows users to list vehicles for sale or rent and browse listings with advanced privacy controls.
+Car Online is a full-stack web platform for car sales and rentals, developed as part of a university graduation project. The system allows users to list vehicles for sale or rent and browse listings with advanced privacy controls.
 
 ---
 
